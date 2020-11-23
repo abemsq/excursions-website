@@ -2,7 +2,7 @@
 
 Simple static website showcasing Olivia Woodruff's portfolio.
 
-![image](https://github.com/abemsq/olivia-woodruff-portfolio/blob/master/image.png)
+![image](https://github.com/abemsq/excursions-website/blob/master/image.png)
 
 ## HTML
 ```
